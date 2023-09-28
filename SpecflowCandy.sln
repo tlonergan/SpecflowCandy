@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowCandy", "SpecflowCandy\SpecflowCandy.csproj", "{089500B2-0245-46FC-A971-A4E9296C1943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowCandy.Tests", "SpecflowCandy.Tests\SpecflowCandy.Tests.csproj", "{A6842B72-88D3-45C7-A4B5-C7CC39DD6D8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{089500B2-0245-46FC-A971-A4E9296C1943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089500B2-0245-46FC-A971-A4E9296C1943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089500B2-0245-46FC-A971-A4E9296C1943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089500B2-0245-46FC-A971-A4E9296C1943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6842B72-88D3-45C7-A4B5-C7CC39DD6D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6842B72-88D3-45C7-A4B5-C7CC39DD6D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6842B72-88D3-45C7-A4B5-C7CC39DD6D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6842B72-88D3-45C7-A4B5-C7CC39DD6D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E8F3828-EEA6-4001-B2F3-95115CA5833E}
+	EndGlobalSection
+EndGlobal
